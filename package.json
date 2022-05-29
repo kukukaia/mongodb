@@ -17,6 +17,7 @@
   "homepage": "https://github.com/kukukaia/mongodb#readme",
   "dependencies": {
     "express": "^4.18.1",
+    "mongoose": "^6.3.4",
     "mysql": "^2.18.1",
     "nodemon": "^2.0.16"
   },
